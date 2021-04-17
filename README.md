@@ -28,4 +28,5 @@ A dedicated Node.js application that prompts user in the commandline information
 4.) Once installed and no issues, type "node app" in the commandline
 
 ## Reference Image
-<a href="./assets/images/portfolio-generator.png">
+<img src="./assets/images/portfolio-generator.png"
+    alt="Image of the applications generated portfolio web page" />
